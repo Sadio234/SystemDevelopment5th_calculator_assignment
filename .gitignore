@@ -1,0 +1,21 @@
+.claude
+.venv
+htmlcov
+mutants
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Coverage
+.coverage
+.coverage.*
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
