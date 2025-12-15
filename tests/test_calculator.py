@@ -2,7 +2,7 @@
 Test suite for the Calculator class.
 """
 
-import pytest
+import pytest # type: ignore
 from calculator.calculator import Calculator, InvalidInputException
 
 
